@@ -4,7 +4,7 @@
 - 💼 **I'm currently working as a research intern at LCS2, IIIT Delhi**
 - 💼 **I also actively volunteer in Omdena’s AIforGood Challenges as a Lead Machine Learning Engineer.**
 - 🌱 **I’m currently learning MLOPs and improving my expertise in Machine Learning, NLP and Development.**
-- ⚡ **Fun facts about me- I'm an artist and I've sold commisioned work in the past! Oh, and I love to read (a lot!), and I'm also learning Spanish through Duolingo!**
+- ⚡ **Fun facts about me- I'm an artist and I've sold commisioned work in the past! Oh, and I love to read (a lot!), and I'm also learning Spanish through Duolingo! 👋*Hola! Encantado de conocerte!***
 - 📫 **You can reach out to me via [LinkedIn](https://www.linkedin.com/m/in/ayushi-mittal1011)! I do have a Twitter account as well, but I created it when I was 15, so 🙈😅**<br><br>
 
 ![Ayushi's GitHub stats](https://github-readme-stats.vercel.app/api?username=ayushinm&show_icons=true)
