@@ -1,8 +1,8 @@
 ## 👋 Hey there! I'm [Ayushi Mittal](https://www.linkedin.com/m/in/ayushi-mittal1011)(she/her)! 
 ![Visits Badge](https://komarev.com/ghpvc/?username=ayushinm&label=Profile%20views&color=2ca3c5&style=flat)
 - 👀 **I’m extremely passionate about Machine Learning and NLP and their applications in Social Good (particularly in Social Media and Mental Health space).**
-- 💼 **I actively volunteer in Omdena’s AIforGood Challenges as a Lead Machine Learning Engineer.**
-- 💼 **Previously, I have worked as an NLP intern at a local start-up Textify.AI, and a Freelance Machine Learning Engineer at a German Start-up, Dryad Networks.**
+- 💼 **Previously, I have volunteered in Omdena’s AIforGood Challenges as a Machine Learning Engineer.**
+- 💼 **I have also worked as an NLP intern at a local start-up Textify.AI, and a Freelance Machine Learning Engineer at a German Start-up, Dryad Networks.**
 - 🌱 **I’m currently learning MLOPs and improving my expertise in Machine Learning, NLP and Development.**
 - ⚡ **Fun facts about me- I'm an artist and I've sold commisioned work in the past! Oh, and I love to read (a lot!), and I'm also learning Spanish through Duolingo! 👋*Hola! Encantado de conocerte!***
 - 📫 **You can reach out to me via [LinkedIn](https://www.linkedin.com/m/in/ayushi-mittal1011)! I do have a Twitter account as well, but I created it when I was 15, so 🙈😅**<br><br>
